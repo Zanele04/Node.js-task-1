@@ -1,0 +1,14 @@
+{
+    "movies": [
+        { "id": 1, "title": "Inception", "year": 2010 },
+        { "id": 2, "title": "Interstellar", "year": 2014 }
+    ],
+    "series": [
+        { "id": 1, "title": "Breaking Bad", "seasons": 5 },
+        { "id": 2, "title": "Stranger Things", "seasons": 4 }
+    ],
+    "songs": [
+        { "id": 1, "title": "Bohemian Rhapsody", "artist": "Queen" },
+        { "id": 2, "title": "Imagine", "artist": "John Lennon" }
+    ]
+}
